@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Meal App</string>
+
+    <!--  Tools  -->
+    <string name="title">Title</string>
+    <string name="sub_title">Sub title</string>
+
+    <!--  Button  -->
+    <string name="action_logout">Log out</string>
+
+    <!--  Text  -->
+    <string name="label_food_type">Food Category</string>
+    <string name="label_food_area">Area</string>
+    <string name="label_food_ingredients">%s</string>
+    <string name="label_data_not_found">Data not found</string>
+    <string name="label_filter">Filter</string>
+    <string name="label_choose_by">Choose by</string>
+    <string name="label_instructions">Instructions</string>
+    <string name="label_ingredients">Ingredients</string>
+
+    <!--  Content Description  -->
+    <string name="label_img_button_back">Button back image</string>
+    <string name="label_img_detail_food">Detail food image</string>
+
+    <!--  Error -->
+    <string name="error_failed_to_load_data">Failed to load data.</string>
+</resources>
